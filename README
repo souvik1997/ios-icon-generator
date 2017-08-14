@@ -1,0 +1,3 @@
+Generate icons for Xcode projects using imagemagick. Run `python3 generate.py --help` for more information.
+
+License: GNU GPL 3
